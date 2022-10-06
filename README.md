@@ -1,3 +1,4 @@
 # trackCovid
 Covid tracker android application
-includes maps, chatbot
+includes maps, chatbot,
+emergency contacts
